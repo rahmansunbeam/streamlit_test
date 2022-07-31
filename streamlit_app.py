@@ -9,4 +9,6 @@ __email__  = 'sunbeam.rahman@live.com'
 
 import streamlit as st 
 
-st.title('Hello world!!')
+# create a sidebar
+st.sidebar.title('Sidebar')
+
